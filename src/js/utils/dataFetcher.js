@@ -1,0 +1,8 @@
+const datafetcher = async function (url=null){
+    const response = await fetch(url)
+    const data = await response.json()
+
+    return data
+}
+
+export default datafetcher

@@ -1,0 +1,16 @@
+@use 'reboot';
+@use 'ui/link';
+
+.temp {
+    font-size: 3rem;
+    /* padding: 5rem 0; */
+    text-align: center;
+ }
+ 
+ button {
+  padding: 2rem;
+  display: flex;
+  margin: 4rem auto;
+ }
+ 
+ 

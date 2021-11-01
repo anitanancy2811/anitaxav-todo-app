@@ -1,0 +1,37 @@
+[
+    
+    {
+        "id":"1",
+        "category":"Kids",
+        "description":"short description of the to do",
+        "isComplete":true
+    },
+    {
+        "id":"2",
+        "category":"Doctor's appoitment",
+        "description":"short description of the to do",
+        "isComplete":true
+    },
+    {
+        "id":"3",
+        "category":"Birthday Remainder",
+        "description":"short description of the to do",
+        "isComplete":true
+    }
+    ,
+    {
+        "id":"4",
+        "category":"work",
+        "description":"short description of the to do",
+        "isComplete":true
+    },
+
+    {
+        "id":"qw3er57u",
+        "category":"Shopping",
+        "description":"short description of the to do",
+        "isComplete":true
+    }
+    
+   
+]
